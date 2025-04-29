@@ -1,0 +1,14 @@
+# Ignorar archivos compilados (.class)
+*.class
+
+# Ignorar carpetas de compilacion (out y bin)
+out/
+bin/
+
+# Ignorar configuraciones del IDE (para IntelliJ IDEA)
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
